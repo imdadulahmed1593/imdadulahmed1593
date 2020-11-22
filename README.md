@@ -1,9 +1,9 @@
 ### Hi there, I'm  [Imdadul Ahmed][website]
 
-## I'm a 😍😍 JavaScript freak 😍😍!
+## I'm a 😍😍 JavaScript Enthusiast 😍😍!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learning ReactNative, Vue, Node
-- ⚡ Fun fact: I love to travel and work. 
+- ⚡ About me: I love to travel and work. 
 
 ### Connect with me:
 
