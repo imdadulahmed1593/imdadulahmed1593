@@ -2,7 +2,7 @@
 
 ## I'm a 😍😍 JavaScript Enthusiast 😍😍!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learning ReactNative, Vue, Node
+- 🥅 2023 Goals: Learning ReactNative, Vue, Node
 - ⚡ About me: I love to travel and work. 
 
 ### Connect with me:
